@@ -1,0 +1,49 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets and local environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build outputs and temporary files
+build/
+dist/
+*.egg-info/
+*.log
+*.tmp
+.tmp/
+tmp/
+
+# Local databases (if added later)
+*.sqlite3
+*.db
+
+# Keep data/raw and data/processed tracked for reproducible demo.
+# If uploading new sensitive or large data, add explicit ignore rules.

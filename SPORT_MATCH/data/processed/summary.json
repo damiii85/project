@@ -1,0 +1,18 @@
+{
+  "분당스포츠센터": {
+    "raw_rows": 12951,
+    "valid_date_rows": 12950,
+    "bad_month_rows": 1,
+    "unique_latest_courses": 5160,
+    "latest_month": "2026-08-01",
+    "sports": 41
+  },
+  "올림픽스포츠센터": {
+    "raw_rows": 2137,
+    "valid_date_rows": 2113,
+    "bad_month_rows": 24,
+    "unique_latest_courses": 1581,
+    "latest_month": "2026-06-01",
+    "sports": 32
+  }
+}
